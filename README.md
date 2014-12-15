@@ -1,9 +1,9 @@
 # LainBot
 
-IRC chat bot in python
+The goal is to repurpose this old project of mine to be used in #lainet. So far it is VERY basic.
 
-To do :
+## To do
 
 -Add functionality (create a issue if there is a functionality you want)
 
--remove useless code (!time is pretty useless)
+-Remove useless code (!time is pretty useless)
