@@ -1,7 +1,6 @@
 import urllib
 import json
 
-
 def temperature(town):  # Takes a town as paramater and return it's temperature in C
     try:
         #Getting the JSON from openweathermap into a python dictionary

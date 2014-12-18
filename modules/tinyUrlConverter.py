@@ -1,6 +1,5 @@
 import urllib
 
-
 def tiny_url(url):
 
     if url[0:7] == "http://" :
